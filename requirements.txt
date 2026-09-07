@@ -1,0 +1,7 @@
+streamlit
+pillow
+openai
+opencv-python-headless
+numpy
+streamlit-image-comparison
+reportlab
